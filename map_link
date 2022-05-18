@@ -1,0 +1,11 @@
+I chose Yellowstone National Park as my map data to wrangle because it is one of my 
+favorite places to visit.
+
+The data used in this analysis is an export from OpenStreetMap.org via Overpass API, 
+which is a mirror of OpenStreetMap’s extensive database. 
+
+The map can be found here:
+https://www.openstreetmap.org/export#map=9/44.6778/-110.8037
+
+From here, I manually selected a different area to better encase only Yellowstone National Park
+using these coordinates: 44.0936, -111.1816, 44.8754, -110.0036
