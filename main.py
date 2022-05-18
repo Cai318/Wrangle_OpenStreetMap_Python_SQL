@@ -10,7 +10,7 @@ import schema
 
 OSM_PATH = 'Sample.osm'
 
-path = "C:\\Users\\a5235\\PycharmProjects\\Wrangle"
+path = "C:\\Users\\CL\\PycharmProjects\\Wrangle"
 
 NODES_PATH = "nodes.csv"
 NODE_TAGS_PATH = "nodes_tags.csv"
