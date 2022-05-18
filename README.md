@@ -1,4 +1,4 @@
-# Wrangle_OpenStreetMap_Python_SQ 
+# Wrangle_OpenStreetMap_Python_SQL 
 ## By Callie Lamb
 
 ## Introduction
