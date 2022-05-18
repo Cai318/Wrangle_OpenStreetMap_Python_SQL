@@ -1,7 +1,6 @@
 import pandas as pd
 import sqlite3 as sq
 
-#https://www.biochemithon.in/python-tutorials/sqlite3/how-to-import-csv-file-into-an-sqlite-database-table-using-python/
 
 def create_sql_db():
     con = sq.connect('Yellowstone_SQL_DB.db') # Connection object
