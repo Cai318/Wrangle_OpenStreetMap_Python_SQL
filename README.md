@@ -9,8 +9,8 @@
 
 ## Overview of Project Files 
 
-### Yellowstone.osm	
->Main osm XML file that is used for the project. Contains map information in the form of “nodes” (geographic position), “ways” (connection routes), “relations” (relationships between nodes and ways), and “tags” (metadata attached to nodes, ways, or a relation). More information about this file type can be found here: https://docs.fileformat.com/gis/osm/.
+### Yellowstone.osm	(not included)
+>Main osm XML file that was used for the project. This file is too large to upload. the data location for download can be found in the "map_link" file. This file contains map information in the form of “nodes” (geographic position), “ways” (connection routes), “relations” (relationships between nodes and ways), and “tags” (metadata attached to nodes, ways, or a relation). More information about this file type can be found here: https://docs.fileformat.com/gis/osm/.
 
 ### create_sample.py
 >Creates a Sample.osm from Yellowstone.osm that is about 1/10th it’s size. I use this to validate my code, as it runs much faster. 
@@ -29,12 +29,6 @@
 
 ### queries.py
 >Contains SQL queries, written through python. 
-
-### nodes.csv, nodes_tags.csv, ways.csv, ways_nodes.csv, and ways_tags.csv
->These are from running main.py where the data is cleaned before being written to these CSVs.
-
-### Yellowstone_SQL_DB.db
->This is the SQL database that is created from running create_db.py
 
 ### map_link
 >Contains the link for the map data export and information about the map.
